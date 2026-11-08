@@ -2407,20 +2407,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://serviceydere.dk/blog/kontorrengoering</loc>
-    <image:image><image:loc>https://gkectsellkpltrxvusot.supabase.co/functions/v1/article-images?f=blog-kontorrengoering.webp</image:loc><image:title>Illustration til artiklen: Kontorrengøring: Opgaver, frekvens og en god rengøringsaftale</image:title></image:image>
-    <lastmod>2026-11-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://serviceydere.dk/blog/rengoering</loc>
-    <image:image><image:loc>https://gkectsellkpltrxvusot.supabase.co/functions/v1/article-images?f=blog-rengoering.webp</image:loc><image:title>Illustration til artiklen: Rengøring: Guide til metoder, midler og et rent hjem</image:title></image:image>
-    <lastmod>2026-11-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://serviceydere.dk/blog/bilvask</loc>
     <image:image><image:loc>https://gkectsellkpltrxvusot.supabase.co/functions/v1/article-images?f=blog-bilvask.webp</image:loc><image:title>Illustration til artiklen: Bilvask: Guide til metoder, priser og skånsom rengøring</image:title></image:image>
     <lastmod>2026-11-04</lastmod>
@@ -2435,20 +2421,6 @@
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://serviceydere.dk/blog/skorstensfejer</loc>
-    <image:image><image:loc>https://gkectsellkpltrxvusot.supabase.co/functions/v1/article-images?f=blog-skorstensfejer.webp</image:loc><image:title>Illustration til artiklen: Skorstensfejer: Opgaver, besøg og hjælp til din skorsten</image:title></image:image>
-    <lastmod>2026-11-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://serviceydere.dk/blog/fliserens-tilbud-og-opgaver</loc>
-    <image:image><image:loc>https://gkectsellkpltrxvusot.supabase.co/functions/v1/article-images?f=blog-fliserens-tilbud-og-opgaver.webp</image:loc><image:title>Illustration til artiklen: Fliserens: Opgaver, arbejdsgang og det gode tilbud</image:title></image:image>
-    <lastmod>2026-11-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
     <loc>https://serviceydere.dk/blog/kloakrensning</loc>
     <image:image><image:loc>https://gkectsellkpltrxvusot.supabase.co/functions/v1/article-images?f=blog-kloakrensning.webp</image:loc><image:title>Illustration til artiklen: Kloakrensning: Tegn, metoder, pris og akut hjælp</image:title></image:image>
     <lastmod>2026-11-05</lastmod>
@@ -2459,20 +2431,6 @@
     <loc>https://serviceydere.dk/blog/storskrald</loc>
     <image:image><image:loc>https://gkectsellkpltrxvusot.supabase.co/functions/v1/article-images?f=blog-storskrald.webp</image:loc><image:title>Illustration til artiklen: Storskrald: Guide til sortering, afhentning og tilbud</image:title></image:image>
     <lastmod>2026-11-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://serviceydere.dk/blog/anlaegsgartner</loc>
-    <image:image><image:loc>https://gkectsellkpltrxvusot.supabase.co/functions/v1/article-images?f=blog-anlaegsgartner.webp</image:loc><image:title>Illustration til artiklen: Find en anlægsgartner: Opgaver, tilbud og arbejdsgang</image:title></image:image>
-    <lastmod>2026-11-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
-  </url>
-  <url>
-    <loc>https://serviceydere.dk/blog/stubfraesning</loc>
-    <image:image><image:loc>https://gkectsellkpltrxvusot.supabase.co/functions/v1/article-images?f=blog-stubfraesning.webp</image:loc><image:title>Illustration til artiklen: Stubfræsning: pris, fremgangsmåde og et klart tilbud</image:title></image:image>
-    <lastmod>2026-11-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
@@ -2522,6 +2480,48 @@
     <loc>https://serviceydere.dk/blog/facaderens</loc>
     <image:image><image:loc>https://gkectsellkpltrxvusot.supabase.co/functions/v1/article-images?f=blog-facaderens.webp</image:loc><image:title>Illustration til artiklen: Facaderens: Metoder, arbejdsgang og det gode tilbud</image:title></image:image>
     <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://serviceydere.dk/blog/kontorrengoering</loc>
+    <image:image><image:loc>https://gkectsellkpltrxvusot.supabase.co/functions/v1/article-images?f=blog-kontorrengoering.webp</image:loc><image:title>Illustration til artiklen: Kontorrengøring: Opgaver, frekvens og en god rengøringsaftale</image:title></image:image>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://serviceydere.dk/blog/rengoering</loc>
+    <image:image><image:loc>https://gkectsellkpltrxvusot.supabase.co/functions/v1/article-images?f=blog-rengoering.webp</image:loc><image:title>Illustration til artiklen: Rengøring: Guide til metoder, midler og et rent hjem</image:title></image:image>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://serviceydere.dk/blog/skorstensfejer</loc>
+    <image:image><image:loc>https://gkectsellkpltrxvusot.supabase.co/functions/v1/article-images?f=blog-skorstensfejer.webp</image:loc><image:title>Illustration til artiklen: Skorstensfejer: Opgaver, besøg og hjælp til din skorsten</image:title></image:image>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://serviceydere.dk/blog/fliserens-tilbud-og-opgaver</loc>
+    <image:image><image:loc>https://gkectsellkpltrxvusot.supabase.co/functions/v1/article-images?f=blog-fliserens-tilbud-og-opgaver.webp</image:loc><image:title>Illustration til artiklen: Fliserens: Opgaver, arbejdsgang og det gode tilbud</image:title></image:image>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://serviceydere.dk/blog/anlaegsgartner</loc>
+    <image:image><image:loc>https://gkectsellkpltrxvusot.supabase.co/functions/v1/article-images?f=blog-anlaegsgartner.webp</image:loc><image:title>Illustration til artiklen: Find en anlægsgartner: Opgaver, tilbud og arbejdsgang</image:title></image:image>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://serviceydere.dk/blog/stubfraesning</loc>
+    <image:image><image:loc>https://gkectsellkpltrxvusot.supabase.co/functions/v1/article-images?f=blog-stubfraesning.webp</image:loc><image:title>Illustration til artiklen: Stubfræsning: pris, fremgangsmåde og et klart tilbud</image:title></image:image>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
