@@ -15,6 +15,7 @@ workflows:
       xcode: latest
       vars:
         CAP_RELEASE: "1"
+        APP_STORE_APPLE_ID: "6831961372"
     scripts:
       - name: Install dependencies
         script: npm ci || npm install
